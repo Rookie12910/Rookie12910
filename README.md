@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=Rookie12910&color=blue&style=flat)
+
 ## Hi there 👋
 
 <!--
