@@ -1,6 +1,8 @@
+## Hey there, fellow coder!👋
+Welcome to my GitHub profile.
+You are visitor number:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rookie12910&color=blue&style=flat)
 
-## Hi there 👋
 
 <!--
 **Rookie12910/Rookie12910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
