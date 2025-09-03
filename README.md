@@ -1,6 +1,6 @@
 ## Hey there, fellow coder!👋
-##Welcome to my GitHub profile.
-##You are visitor number:
+## Welcome to my GitHub profile.
+## You are visitor number:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rookie12910&color=blue&style=flat)
 
 
